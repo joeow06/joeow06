@@ -1,5 +1,5 @@
-# Hello there
-### I'm Joe
+# hello there
+### i'm Joe
 - 🎓 I'm a cadet at **42 Kuala Lumpur (42KL)**
 - 🔭 I’m currently working on the **42 Core Program**
 - 🏫 Studying Computer Science in Sunway University
