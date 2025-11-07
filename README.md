@@ -1,6 +1,6 @@
-## Hi there 👋
-# I'm Joe
-
+# Hi there 👋
+## I'm Joe
+--
 🎓 I'm a student at **42 Kuala Lumpur (42KL)** and **Sunway University**, passionate about programming, problem-solving, and building efficient systems.  
 
 💻 **Tech Stack & Skills**
