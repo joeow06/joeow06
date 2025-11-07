@@ -1,16 +1,21 @@
 ## Hi there 👋
+# I'm Joe
 
-<!--
-**joeow06/joeow06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at **42 Kuala Lumpur (42KL)** and **Sunway University**, passionate about programming, problem-solving, and building efficient systems.  
 
-Here are some ideas to get you started:
+💻 **Tech Stack & Skills**
+- **Languages:** C, C++, Python, Java  
+- **Tools & Systems:** Git, Bash Scripting  
+- **Focus Areas:** Algorithmic problem solving, system programming, and software development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently Working On**
+- Advancing through the **42 Core Programme**  
+- Strengthening my knowledge in **C programming** and **software architecture**  
+
+📚 **Currently Learning**
+- Deep diving into **C++ OOP concepts**  
+- Exploring **Python automation** and **backend development**  
+
+---
+
+🧠 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory H
