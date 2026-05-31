@@ -9,6 +9,14 @@
 </div>
 <br>
 <!--START_SECTION:waka-->
+
+```txt
+Unknown   10 hrs 31 mins        ████████████████████████░   96.37 %
+C++       0 hrs 20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Html      0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Make      0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 <br>
 
