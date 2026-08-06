@@ -5,7 +5,7 @@
 ### i'm Joe
 
 cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Program**
-studying **Computer Science** @ Sunway University
+&nbsp;|&nbsp; studying **Computer Science** @ Sunway University
 
 <a href="https://git.io/streak-stats">
   <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
