@@ -11,6 +11,8 @@ studying **Computer Science** @ Sunway University
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </a>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joeow06)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
 
 <br>
