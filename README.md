@@ -2,16 +2,17 @@
 
 <img src="./profile/hola.gif" alt="hola" width="100" height="100" />
 
-i'm Joe 
+### i'm Joe
 
-cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Program** &nbsp;|&nbsp;
+cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Program**
 studying **Computer Science** @ Sunway University
 
 <a href="https://git.io/streak-stats">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
 </a>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&layout=compact&langs_count=10&hide_values=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&layout=compact&langs_count=10&hide_values=true&theme=tokyonight)
+<a href="https://github.com/joeow06">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&layout=compact&langs_count=10&hide_values=true&theme=tokyonight" alt="Top Languages" height="165" />
+</a>
 
 </div>
 
