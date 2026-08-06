@@ -1,7 +1,7 @@
 # hello there
 ### i'm Joe
-cadet at **42 Kuala Lumpur (42KL)**
-working on the **42 Core Program**
+cadet at **42 Kuala Lumpur (42KL)**<br>
+working on the **42 Core Program**<br>
 studying **Computer Science** @ Sunway University
 <br>
 <div align="center">
