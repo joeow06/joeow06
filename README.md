@@ -10,6 +10,7 @@ cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Progr
 <a href="https://git.io/streak-stats">
   <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/joeow06">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&layout=compact&langs_count=10&hide_values=true&theme=tokyonight" alt="Top Languages" height="165" />
 </a>
