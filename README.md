@@ -4,7 +4,7 @@
 
 # hi, i'm Joe 👋
 
-cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Program**
+cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Program** &nbsp;|&nbsp;
 studying **Computer Science** @ Sunway University
 
 <a href="https://git.io/streak-stats">
@@ -46,9 +46,3 @@ Typescript     5 hrs 59 mins         █░░░░░░░░░░░░░�
 </div>
 
 ---
-
-<div align="center">
-
-[![Visitors](https://visitcount.itsvg.in/api?id=joeow06&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
