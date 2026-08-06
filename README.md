@@ -8,11 +8,11 @@ cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Progr
 &nbsp;|&nbsp; studying **Computer Science** @ Sunway University
 
 <a href="https://git.io/streak-stats">
-  <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="175" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/joeow06">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&layout=compact&langs_count=10&hide_values=true&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&layout=compact&langs_count=10&hide_values=true&theme=tokyonight" alt="Top Languages" height="175" />
 </a>
 </div>
 
