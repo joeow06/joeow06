@@ -16,5 +16,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
-          TIME_RANGE: all_time
+          TIME_RANGE: last_30_days
           SHOW_MASKED_TIME : true
