@@ -13,7 +13,6 @@ studying **Computer Science** @ Sunway University
 <a href="https://github.com/joeow06">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&layout=compact&langs_count=10&hide_values=true&theme=tokyonight" alt="Top Languages" height="165" />
 </a>
-
 </div>
 
 <br>
