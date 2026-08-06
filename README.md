@@ -1,4 +1,4 @@
-# <img src="./profile/hola.gif" alt="hola" width="10" height="10" />
+# <img src="./profile/hola.gif" alt="hola" width="100" height="100" />
 ### i'm Joe
 <br>cadet at **42 Kuala Lumpur (42KL)**<br>
 working on the **42 Core Program**<br>
