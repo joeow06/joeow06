@@ -13,6 +13,8 @@ studying **Computer Science** @ Sunway University
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joeow06)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=joeow06&theme=transparent)
+
 </div>
 
 <br>
