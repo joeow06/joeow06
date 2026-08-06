@@ -1,6 +1,6 @@
 # hello there
-<img src="./profile/hi.gif" alt="hi" />
 ### i'm Joe
+<img src="./profile/hi.gif" alt="hi" />
 cadet at **42 Kuala Lumpur (42KL)**<br>
 working on the **42 Core Program**<br>
 studying **Computer Science** @ Sunway University
