@@ -1,6 +1,5 @@
-# <img src="./profile/hola.gif" alt="hola" width="10px" height="10px" />
+# <img src="./profile/hola.gif" alt="hola" width="10" height="10" />
 ### i'm Joe
-![Bouncing hi](profile/hello.gif)
 <br>cadet at **42 Kuala Lumpur (42KL)**<br>
 working on the **42 Core Program**<br>
 studying **Computer Science** @ Sunway University
