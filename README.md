@@ -1,14 +1,23 @@
-# <img src="./profile/hola.gif" alt="hola" width="100" height="100" /> i'm Joe
-<br>cadet at **42 Kuala Lumpur (42KL)**<br>
-working on the **42 Core Program**<br>
-studying **Computer Science** @ Sunway University
-<br>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-</div>
-<br>
-<!--START_SECTION:waka-->
 
+<img src="./profile/hola.gif" alt="hola" width="100" height="100" />
+
+# hi, i'm Joe 👋
+
+cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Program**
+studying **Computer Science** @ Sunway University
+
+<a href="https://git.io/streak-stats">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<br>
+
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
 ```txt
 Unknown        82 hrs 57 mins        ██████████████▒░░░░░░░░░░   57.86 %
 C++            15 hrs 47 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
@@ -16,13 +25,10 @@ Html           10 hrs 38 mins        ██░░░░░░░░░░░░�
 Python         8 hrs 49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 Typescript     5 hrs 59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
-
 <!--END_SECTION:waka-->
-<br>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+## 🛠️ Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=joeow06&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
