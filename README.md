@@ -1,7 +1,7 @@
 # hello there
 ### i'm Joe
-![Bouncing hi](profile/hi.gif)
-cadet at **42 Kuala Lumpur (42KL)**<br>
+![Bouncing hi](profile/hello.gif)
+<br>cadet at **42 Kuala Lumpur (42KL)**<br>
 working on the **42 Core Program**<br>
 studying **Computer Science** @ Sunway University
 <br>
