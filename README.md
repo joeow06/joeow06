@@ -1,4 +1,5 @@
 # hello there
+<img src="./profile/hi.gif" alt="hi" />
 ### i'm Joe
 cadet at **42 Kuala Lumpur (42KL)**<br>
 working on the **42 Core Program**<br>
