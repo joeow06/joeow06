@@ -21,13 +21,17 @@ cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Progr
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
 ```txt
-Unknown        82 hrs 57 mins        ██████████████▒░░░░░░░░░░   57.86 %
-C++            15 hrs 47 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Html           10 hrs 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Python         8 hrs 49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Typescript     5 hrs 59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Total Time: 40 hrs 17 mins
+
+TypeScript                 16 hrs 55 mins        ██████████▓░░░░░░░░░░░░░░   42.00 %
+Java                       4 hrs 29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Other                      4 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Markdown                   2 hrs 50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+HTML                       2 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
