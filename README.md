@@ -23,13 +23,13 @@ cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; working on the **42 Core Progr
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 hrs 12 mins
+Total Time: 23 hrs 32 mins
 
-C++                        8 hrs 41 mins         █████████░░░░░░░░░░░░░░░░   35.89 %
-TypeScript                 8 hrs 31 mins         ████████▓░░░░░░░░░░░░░░░░   35.20 %
-Other                      2 hrs 46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Markdown                   1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-JavaScript                 35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+TypeScript                 8 hrs 30 mins         █████████░░░░░░░░░░░░░░░░   36.15 %
+C++                        8 hrs 25 mins         █████████░░░░░░░░░░░░░░░░   35.82 %
+Other                      2 hrs 46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Markdown                   1 hr 18 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JavaScript                 35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
