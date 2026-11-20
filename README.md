@@ -22,13 +22,13 @@ cadet at **42 Kuala Lumpur (42KL)** &nbsp;|&nbsp; studying **Computer Science** 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 24 mins
+Total Time: 16 hrs 8 mins
 
-Other        3 hrs 17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Haskell      2 hrs 52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-Astro        1 hr 55 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Docker       1 hr 30 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Markdown     1 hr 28 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Other        3 hrs 1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+Haskell      2 hrs 52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+Astro        1 hr 55 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Docker       1 hr 30 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Markdown     1 hr 28 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
 ```
 
 <!--END_SECTION:waka-->
